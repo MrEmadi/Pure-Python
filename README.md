@@ -6,6 +6,7 @@
 - **Variables**
 - **Input**
 - **String Manipulation**
+- **Comment**
 
 # Reference
 
