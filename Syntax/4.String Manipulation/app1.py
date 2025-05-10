@@ -10,3 +10,4 @@ print("folder\\file.txt") # backslash
 # String Concatenation:
 
 print("Hello, " + "Amirhossein!")
+print("Hello," + " " + "Zahra!")

@@ -11,6 +11,7 @@
 
 - **builtin**
   - **print**
+- **Errors**
 
 # Practices
 
