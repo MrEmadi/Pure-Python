@@ -4,6 +4,8 @@
 
 - **Output**
 - **Variables**
+- **Input**
+- **String Manipulation**
 
 # Reference
 
@@ -13,3 +15,4 @@
 # Practices
 
 - **Practice 1 - Variables**
+- **Practice 2 - Output**
