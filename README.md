@@ -20,3 +20,4 @@
 
 - **Practice 1 - Variables**
 - **Practice 2 - Output**
+- **Practice 3 - Variables**
