@@ -13,6 +13,7 @@
 - **builtin**
   - **`print()`**
   - **`input()`**
+  - **`len()`**
 - **Errors**
 
 # Practices

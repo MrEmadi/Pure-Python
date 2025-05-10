@@ -11,3 +11,8 @@ print("folder\\file.txt") # backslash
 
 print("Hello, " + "Amirhossein!")
 print("Hello," + " " + "Zahra!")
+# -------------------------------------------
+print(len("Amir"))
+
+name = "Zahra Emadi"
+print(len(name))

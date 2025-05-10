@@ -12,4 +12,3 @@ name2 = "Zahra" # :str
 is_published = False # :bool -> 'F' must be uppercase
 is_mail = True # :bool -> 'T' must be uppercase
 # ---------------------------------------
-
