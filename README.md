@@ -10,7 +10,8 @@
 # Reference
 
 - **builtin**
-  - **print**
+  - **`print()`**
+  - **`input()`**
 - **Errors**
 
 # Practices

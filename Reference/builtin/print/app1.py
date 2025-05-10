@@ -1,5 +1,6 @@
 # print(*value):
-# value -> object
+# *value -> objects
+# return type -> None
 print("Amirhossein Emadi")
 print("Amirhossein Emadi:", 25, "years old")
 # -------------------------------------------------
