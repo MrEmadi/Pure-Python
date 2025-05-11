@@ -17,6 +17,8 @@
   - **`len()`**
   - **`int()`**
   - **`type()`**
+  - **`float()`**
+  - **`str()`**
 - **Errors**
 
 # Practices
@@ -25,3 +27,4 @@
 - **Practice 2 - Output**
 - **Practice 3 - Variables**
 - **Practice 4 - Input, Output**
+- **Practice 5 - Type Conversion**
