@@ -7,3 +7,5 @@
 # TypeError
 
 # ValueError
+
+# IndexError

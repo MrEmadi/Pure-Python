@@ -8,6 +8,7 @@
 - **String Manipulation**
 - **Comment**
 - **Type Conversion**
+- **Primitive Data Types**
 
 # Reference
 
