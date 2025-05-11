@@ -7,6 +7,7 @@
 - **Input**
 - **String Manipulation**
 - **Comment**
+- **Type Conversion**
 
 # Reference
 
@@ -14,6 +15,8 @@
   - **`print()`**
   - **`input()`**
   - **`len()`**
+  - **`int()`**
+  - **`type()`**
 - **Errors**
 
 # Practices

@@ -5,3 +5,5 @@
 # NameError
 
 # TypeError
+
+# ValueError
