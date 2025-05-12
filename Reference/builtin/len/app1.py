@@ -1,5 +1,6 @@
 # len(__obj):
-# __obj -> 'str', 'list', 'dict', 'tuple' or 'set' (TypeError)
+# __obj -> sequence: string, bytes, tuple, list, or range
+# __obj -> collection: dictionary, set, or frozen set
 # return type -> int
 
 # str:

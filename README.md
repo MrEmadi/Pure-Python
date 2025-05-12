@@ -20,6 +20,7 @@
   - **`type()`**
   - **`float()`**
   - **`str()`**
+  - **`bool()`**
 - **Errors**
 
 # Practices
