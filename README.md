@@ -9,7 +9,9 @@
 - **Comment**
 - **Type Conversion**
 - **Primitive Data Types**
-- **Arithmetic Operations**
+- **Arithmetic Operators**
+- **Number Manipulation**
+- **Assignment Operators**
 
 # Reference
 
@@ -22,6 +24,7 @@
   - **`float()`**
   - **`str()`**
   - **`bool()`**
+  - **`round()`**
 - **Errors**
 
 # Practices
