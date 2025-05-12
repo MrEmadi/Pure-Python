@@ -12,6 +12,7 @@
 - **Arithmetic Operators**
 - **Number Manipulation**
 - **Assignment Operators**
+- **F-Strings**
 
 # Reference
 
