@@ -9,6 +9,7 @@
 - **Comment**
 - **Type Conversion**
 - **Primitive Data Types**
+- **Arithmetic Operations**
 
 # Reference
 
