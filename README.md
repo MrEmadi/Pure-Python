@@ -15,6 +15,7 @@
 - **F-Strings**
 - **If-else Statements**
 - **Comparison Operators**
+- **Logical Operators**
 
 # Reference
 
