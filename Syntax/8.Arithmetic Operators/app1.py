@@ -17,5 +17,6 @@ print(11 // 3) # :int -> warning (lose data!)
 # Exponent:
 print(2 ** 3)
 # -----------------------------
-# Modulus:
+# Modulo -> %:
 print(80 % 2)
+print(10 % 3)

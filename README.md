@@ -13,6 +13,8 @@
 - **Number Manipulation**
 - **Assignment Operators**
 - **F-Strings**
+- **If-else Statements**
+- **Comparison Operators**
 
 # Reference
 
