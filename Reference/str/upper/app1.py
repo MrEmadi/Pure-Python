@@ -1,5 +1,5 @@
 # string.upper():
-# string -> str
+# string -> 'str' data type
 # return type -> str
 
 name = "Zahra Emadi"

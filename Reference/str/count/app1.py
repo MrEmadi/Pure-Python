@@ -1,5 +1,5 @@
 # string.count(x):
-# string -> str
+# string -> 'str' data type
 # x -> str
 # return type -> str
 

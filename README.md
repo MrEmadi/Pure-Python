@@ -16,6 +16,8 @@
 - **If-else Statements**
 - **Comparison Operators**
 - **Logical Operators**
+- **Random Module**
+- **Modules**
 
 # Reference
 
@@ -34,6 +36,11 @@
   - **`lower()`**
   - **`upper()`**
   - **`count()`**
+- **modules**
+  - **random**
+    - **`random()`**
+    - **`randint()`**
+    - **`randrange()`**
 
 # Practices
 
