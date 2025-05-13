@@ -30,6 +30,10 @@
   - **`bool()`**
   - **`round()`**
 - **Errors**
+- **str**
+  - **`lower()`**
+  - **`upper()`**
+  - **`count()`**
 
 # Practices
 
