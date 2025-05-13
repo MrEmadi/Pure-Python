@@ -37,3 +37,4 @@
 - **Practice 3 - Variables**
 - **Practice 4 - Input, Output**
 - **Practice 5 - Type Conversion**
+- **Practice 6 - If-else Statements, Arithmetic Operators**
