@@ -8,3 +8,4 @@ print(random.randint(10, 1000)) # int: [a, b]
 # --------------------------------
 print(random.randrange(10, 12)) # int: [a, b)
 # --------------------------------
+print(random.uniform(10, 50)) # float: [a, b) or [a, b]
