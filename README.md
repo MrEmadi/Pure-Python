@@ -43,6 +43,7 @@
     - **`randint()`**
     - **`randrange()`**
     - **`uniform()`**
+    - **`choice()`**
 - **list**
   - **`append()`**
   - **`extend()`**
@@ -57,3 +58,4 @@
 - **Practice 6 - If-else Statements, Arithmetic Operators**
 - **Practice 7 - If-else Statements**
 - **Practice 8 - Random Module**
+- **Practice 9 - Lists, Random Module**
