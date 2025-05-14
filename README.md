@@ -18,6 +18,7 @@
 - **Logical Operators**
 - **Random Module**
 - **Modules**
+- **Lists**
 
 # Reference
 
@@ -42,6 +43,9 @@
     - **`randint()`**
     - **`randrange()`**
     - **`uniform()`**
+- **list**
+  - **`append()`**
+  - **`extend()`**
 
 # Practices
 
