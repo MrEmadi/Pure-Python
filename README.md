@@ -19,6 +19,7 @@
 - **Random Module**
 - **Modules**
 - **Lists**
+- **For Loops**
 
 # Reference
 
