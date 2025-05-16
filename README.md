@@ -42,6 +42,7 @@
   - **`lower()`**
   - **`upper()`**
   - **`count()`**
+  - **`join()`**
 - **modules**
   - **random**
     - **`random()`**
@@ -49,6 +50,7 @@
     - **`randrange()`**
     - **`uniform()`**
     - **`choice()`**
+    - **`shuffle()`**
 - **list**
   - **`append()`**
   - **`extend()`**
