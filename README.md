@@ -49,6 +49,7 @@
   - **`upper()`**
   - **`count()`**
   - **`join()`**
+  - **`isnumeric()`**
 - **modules**
   - **random**
     - **`random()`**
