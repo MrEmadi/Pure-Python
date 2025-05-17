@@ -1,6 +1,6 @@
 # Indentation -> at least 1 space (default: 4 spaces)
 # Usage -> blocks of code: loops, functions, ...
-# Required in Python! -> raise IndentationError
+# It's required in Python! -> raise IndentationError
 
 # for loop:
 for number in range(10):
@@ -9,9 +9,8 @@ for number in range(10):
 # function:
 def print_message():
     print("Hi, Amir404!") # -> ....
-
 print_message()
-# -----------------------------------------
+
 # Nested if-else statement:
 age = 25
 if age > 18:
