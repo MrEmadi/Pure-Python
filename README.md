@@ -20,6 +20,7 @@
 - **Modules**
 - **Lists**
 - **For Loops**
+- **Functions**
 
 # Reference
 
