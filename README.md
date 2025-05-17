@@ -22,6 +22,7 @@
 - **For Loops**
 - **Functions**
 - **Indentation**
+- **While Loops**
 
 # Reference
 
