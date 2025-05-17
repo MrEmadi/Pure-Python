@@ -50,6 +50,7 @@
   - **`count()`**
   - **`join()`**
   - **`isnumeric()`**
+  - **`isalpha()`**
 - **modules**
   - **random**
     - **`random()`**
