@@ -65,6 +65,7 @@
 - **list**
   - **`append()`**
   - **`extend()`**
+  - **`pop()`**
 
 # Practices
 
