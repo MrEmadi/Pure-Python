@@ -51,6 +51,9 @@
   - **`join()`**
   - **`isnumeric()`**
   - **`isalpha()`**
+  - **`find()`**
+  - **`replace()`**
+  - **`split()`**
 - **modules**
   - **random**
     - **`random()`**
