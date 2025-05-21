@@ -54,6 +54,10 @@
   - **`find()`**
   - **`replace()`**
   - **`split()`**
+  - **`ljust()`**
+  - **`rjust()`**
+  - **`isupper()`**
+  - **`islower()`**
 - **modules**
   - **random**
     - **`random()`**
@@ -66,6 +70,7 @@
   - **`append()`**
   - **`extend()`**
   - **`pop()`**
+  - **`index()`**
 
 # Practices
 
