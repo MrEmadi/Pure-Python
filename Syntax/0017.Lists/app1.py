@@ -3,6 +3,7 @@
 # - Indexed
 # - Changeable
 # - Repeat is allowed
+# - IndexError
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 names = ['Ali', 'Reza', 'Amir', 'Zahra', 'Zeynab']

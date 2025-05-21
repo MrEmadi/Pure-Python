@@ -9,3 +9,5 @@
 # ValueError
 
 # IndexError
+
+# KeyError

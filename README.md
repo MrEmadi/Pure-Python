@@ -23,6 +23,7 @@
 - **Functions**
 - **Indentation**
 - **While Loops**
+- **Dictionaries**
 
 # Reference
 
@@ -71,6 +72,8 @@
   - **`extend()`**
   - **`pop()`**
   - **`index()`**
+- **dict**
+  - **`items()`**
 
 # Practices
 
