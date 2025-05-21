@@ -87,3 +87,4 @@
 - **Practice 8 - Random Module**
 - **Practice 9 - Lists, Random Module**
 - **Practice 10 - For Loops**
+- **Practice 11 - Dictionaries**
