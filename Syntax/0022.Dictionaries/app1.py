@@ -33,3 +33,13 @@ person = {
 print(person)
 
 print(person["user1"]["city"])
+
+cities = {
+    "USA": ['Washington', 'New York', 'California', 'Chicago'],
+    "Iran": ['Tehran', 'Mashhad', 'Yazd', 'Gorgan'],
+    "Germany": ['Berlin', 'Munich', 'Bon', 'Hamburg']
+}
+
+print(cities)
+
+print(cities["Iran"][3])
