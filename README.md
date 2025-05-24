@@ -71,6 +71,10 @@
   - **re**
     - **`compile()`**
     - **`match()`**
+  - **datetime**
+    - **`datetime()`**
+    - **datetime**
+      - **`now()`**
 - **list**
   - **`append()`**
   - **`extend()`**
