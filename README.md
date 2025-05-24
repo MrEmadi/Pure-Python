@@ -59,6 +59,7 @@
   - **`rjust()`**
   - **`isupper()`**
   - **`islower()`**
+  - **`title()`**
 - **modules**
   - **random**
     - **`random()`**
