@@ -9,3 +9,9 @@ def format_name(first: str, last: str):
     return f"{first} {last}".title()
 
 print(format_name("amirhossein", "emadi"))
+# -----------------------------------------------
+def format_name_2(first: str, last: str):
+    if first == "" or last == "": return None
+    return f"{first} {last}".title()
+
+print(format_name_2("zahra", ""))
