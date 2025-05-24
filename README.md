@@ -67,6 +67,9 @@
     - **`uniform()`**
     - **`choice()`**
     - **`shuffle()`**
+  - **re**
+    - **`compile()`**
+    - **`match()`**
 - **list**
   - **`append()`**
   - **`extend()`**
@@ -74,6 +77,7 @@
   - **`index()`**
 - **dict**
   - **`items()`**
+  - **`get()`**
 
 # Practices
 

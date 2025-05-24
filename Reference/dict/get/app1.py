@@ -1,6 +1,8 @@
-# dict.items():
+# dict.get(key):
 # dict -> 'dict' data type
-# return type -> object (dict_items[key, value])
+# key -> T (str, int, ...)
+# return type -> ValueT (int, str, ...)
+# not found -> None
 
 my_dict = {
     "name": "Amirhossein Emadi",
@@ -10,4 +12,6 @@ my_dict = {
     "hobbies": ['football', 'ping-pong', 'study', 'programming']
 }
 
-for key, value in my_dict.items(): print(key, " -> ", value)
+print(my_dict.get("city"))
+
+print(my_dict.get("code"))

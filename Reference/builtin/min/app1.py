@@ -1,13 +1,17 @@
-# min(__iterable):
+# min(__iterable, key):
 # __iterable -> numeric sequence (list, tuple, set, dict) - TypeError
+# key = None -> None
 # return type -> int
 
 numbers = [12, -9, 0, 44, 1, 13, -7, 25] # :list
 
-print(f"Max of {numbers} = {min(numbers)}")
+print(f"Min of {numbers} = {min(numbers)}")
 # ---------------------------------------------
-# min(*args):
-# *args -> int
-# return type -> int
+bidders = {
+    "Amirhossein": 25,
+    "Zahra": 23,
+    "Bagher": 65,
+    "Narges": 61
+}
 
-print(f"Max of [12, -1, 0, 25] = {min(12, -1, 0, 25)}")
+print(min(bidders, key=bidders.get)) # bidders.get -> values
