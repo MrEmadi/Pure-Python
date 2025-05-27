@@ -24,6 +24,7 @@
 - **Indentation**
 - **While Loops**
 - **Dictionaries**
+- **Scopes**
 
 # Reference
 
@@ -98,3 +99,4 @@
 - **Practice 9 - Lists, Random Module**
 - **Practice 10 - For Loops**
 - **Practice 11 - Dictionaries**
+- **Practice 12 - Functions**
