@@ -25,6 +25,9 @@
 - **While Loops**
 - **Dictionaries**
 - **Scopes**
+- **Match-case Statement**
+- **Default Statement**
+- **Lambda**
 
 # Reference
 
