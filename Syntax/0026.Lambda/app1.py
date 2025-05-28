@@ -2,7 +2,7 @@
 # A special, simple and short function without name
 # -> It has only 1 expression
 
-my_family = {
+operations = {
     '+': lambda num1, num2: num1 + num2,
     '-': lambda num1, num2: num1 - num2,
     '*': lambda num1, num2: num1 * num2,
@@ -11,5 +11,5 @@ my_family = {
 }
 
 user_operation = input("Enter your operation: ")
-print(my_family.get(user_operation,
+print(operations.get(user_operation,
                     lambda num1, num2: "Invalid Operation!")(12, 6))
