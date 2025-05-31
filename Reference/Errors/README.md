@@ -8,11 +8,20 @@
 4. **Extra/missing indentation** after a code block ends
 5. **Empty blocks** (use `pass` to fix)
 
+Common Error Messages:
+
+- `IndentationError: expected an indented block after '...' statement on line ...`
+
 # SyntaxError
 
 **Parent: `Exception`**
 
 Occurs when Python detects code that doesn't follow its **grammar rules**.
+
+Common Error Messages:
+
+- `SyntaxError: invalid syntax`
+- `SyntaxError: invalid decimal literal`
 
 # NameError
 
@@ -22,17 +31,29 @@ A **`NameError`** in Python happens when a variable, function, or module name is
 
 Check spelling, scope, and imports, or define the missing name.
 
+Common Error Messages:
+
+- `NameError: name '...' is not defined. Did you mean: '...'?`
+
 # TypeError
 
 **Parent: `Exception`**
 
 A **`TypeError`** occurs when an operation or function is applied to an object of an **incorrect type**.
 
+Common Error Messages:
+
+- `TypeError: object of type '...' has no ...()`
+
 # ValueError
 
 **Parent: `Exception`**
 
 A **`ValueError`** occurs when a function receives an argument of the correct type but an **invalid value**.
+
+Common Error Messages:
+
+- `ValueError: invalid literal for ...() with base 10: '...'`
 
 # IndexError
 
@@ -43,11 +64,19 @@ An **`IndexError`** occurs when you try to access an index that is **out of rang
 - Use `len(sequence)` to check bounds before accessing.
 - Python uses **0-based indexing** (first element is at index `0`).
 
+Common Error Messages:
+
+- `IndexError: list index out of range`
+
 # KeyError
 
 **Parent: `LookupError` < `Exception`**
 
 A **`KeyError`** occurs when you try to access **a dictionary key that does not exist** (`dict` or `set`).
+
+Common Error Messages:
+
+- `KeyError: '...'`
 
 # Exception
 
