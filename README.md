@@ -28,6 +28,7 @@
 - **Match-case Statement**
 - **Default Statement**
 - **Lambda**
+- **Try-except Statements**
 
 # Reference
 
