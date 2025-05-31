@@ -48,6 +48,7 @@
   - **`bin()`**
   - **`oct()`**
   - **`hex()`**
+  - **`abs()`**
 - **Errors**
 - **str**
   - **`lower()`**
@@ -79,6 +80,8 @@
     - **`datetime()`**
     - **datetime**
       - **`now()`**
+  - **math**
+    - **`sqrt()`**
 - **list**
   - **`append()`**
   - **`extend()`**
