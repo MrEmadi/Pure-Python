@@ -100,6 +100,8 @@
   - **`add()`**
   - **`remove()`**
   - **`discard()`**
+  - **`difference()`**
+  - **`intersection()`**
 
 # Practices
 
