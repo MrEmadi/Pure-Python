@@ -96,6 +96,10 @@
   - **`get()`**
 - **tuple**
   - **`index()`**
+- **set**
+  - **`add()`**
+  - **`remove()`**
+  - **`discard()`**
 
 # Practices
 
