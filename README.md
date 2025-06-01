@@ -94,6 +94,8 @@
 - **dict**
   - **`items()`**
   - **`get()`**
+- **tuple**
+  - **`index()`**
 
 # Practices
 
