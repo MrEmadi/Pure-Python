@@ -31,6 +31,7 @@
 - **Try-except Statements**
 - **Tuples**
 - **Sets**
+- **OOP**
 
 # Reference
 
@@ -102,6 +103,10 @@
   - **`discard()`**
   - **`difference()`**
   - **`intersection()`**
+
+# Graphical Modules
+
+- **turtle**
 
 # Practices
 
