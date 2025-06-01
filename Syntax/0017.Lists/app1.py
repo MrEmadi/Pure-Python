@@ -1,6 +1,7 @@
 # Lists:
 # - Syntax -> list_name = [value1, value2, value3, ...]
 # - Indexed
+# - Ordered
 # - Changeable
 # - Repeat is allowed
 # - IndexError

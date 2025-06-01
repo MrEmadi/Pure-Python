@@ -29,6 +29,8 @@
 - **Default Statement**
 - **Lambda**
 - **Try-except Statements**
+- **Tuples**
+- **Sets**
 
 # Reference
 

@@ -1,6 +1,7 @@
 # Syntax
 # dict_name = {key1: value, key2: value, ...}
 # - Not indexed -> key/value pair
+# - Ordered
 # - Changeable
 # - Repeat is allowed (only values)
 # - KeyError
