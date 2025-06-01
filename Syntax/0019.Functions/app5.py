@@ -1,4 +1,4 @@
-# Docstring ("""..."""):
+# Docstring (at the beginning of the function -> """..."""):
 def say_hello():
     """
     Prints a message to say Hello.

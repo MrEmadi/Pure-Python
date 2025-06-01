@@ -1,4 +1,4 @@
-# Functions with Output:
+# Functions with Output (return type):
 
 def sum_two_numbers(number1: int, number2: int):
     return number1 + number2
