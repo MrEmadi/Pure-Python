@@ -2,6 +2,8 @@
 # 1. English letters (uppercase and lowercase)
 # 2. Numbers (0-9) -> It must be not at the beginning of the name
 # 3. Underline (_)
+# 4. variable name: snake case
+
 _var1 = True
 Var2 = 5
 # 2war = 32 -> wrong!

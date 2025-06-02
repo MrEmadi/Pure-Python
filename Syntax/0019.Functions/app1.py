@@ -1,4 +1,5 @@
 # Syntax
+# -> function name: snake case
 # def function_name():
 #     ...
 
