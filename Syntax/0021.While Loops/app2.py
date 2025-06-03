@@ -1,6 +1,8 @@
-# Syntax: while
+# Syntax: while-else
 
 # while <conditionIsTrue>:
+#     ...
+# else:
 #     ...
 
 is_a_number = True
@@ -12,3 +14,5 @@ while is_a_number:
             print("Yes!")
         if user_number == 'e':
             print("Bye!")
+else:
+    print('\nFinished!')
