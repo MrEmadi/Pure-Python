@@ -1,5 +1,8 @@
-price = 10 # :int
-print(price)
+price_1 = 10 # :int
+price_2: int # :int
+print(price_1)
+price_2 = 43
+print(price_2)
 # ---------------------------------------
 price = 25 # change value
 print(price)

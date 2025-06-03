@@ -33,6 +33,8 @@
 - **Sets**
 - **OOP**
 - **Python Packages**
+- **Inheritance**
+- **Abstraction**
 
 # Reference
 
