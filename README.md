@@ -35,6 +35,8 @@
 - **Python Packages**
 - **Inheritance**
 - **Abstraction**
+- **Encapsulation**
+- **Polymorphism**
 
 # Reference
 
