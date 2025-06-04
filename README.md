@@ -37,6 +37,7 @@
 - **Abstraction**
 - **Encapsulation**
 - **Polymorphism**
+- **Files**
 
 # Reference
 
@@ -58,6 +59,7 @@
   - **`oct()`**
   - **`hex()`**
   - **`abs()`**
+  - **`open()`**
 - **Errors**
 - **str**
   - **`lower()`**
@@ -74,6 +76,7 @@
   - **`isupper()`**
   - **`islower()`**
   - **`title()`**
+  - **`strip()`**
 - **modules**
   - **random**
     - **`random()`**
