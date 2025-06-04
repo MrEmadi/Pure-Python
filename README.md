@@ -101,6 +101,7 @@
       - **`split()`**
     - **`remove()`**
     - **`rmdir()`**
+    - **`makedirs()`**
   - **shutil**
     - **`rmtree()`**
 - **list**
