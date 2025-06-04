@@ -1,9 +1,9 @@
 # Delete a file:
 
-import os
+from os import path, remove
 
-if os.path.exists('test.txt'):
-        os.remove('test.txt')
-        print("done.")
+if path.exists('test.txt'):
+    remove('test.txt')
+    print("done.")
 else:
     print('Error -> The file is not found!')

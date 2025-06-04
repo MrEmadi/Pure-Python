@@ -60,7 +60,6 @@
   - **`hex()`**
   - **`abs()`**
   - **`open()`**
-- **Errors**
 - **str**
   - **`lower()`**
   - **`upper()`**
@@ -94,6 +93,13 @@
       - **`now()`**
   - **math**
     - **`sqrt()`**
+  - **os**
+    - **path**
+      - **`exists()`**
+      - **`dirname()`**
+      - **`basename()`**
+      - **`split()`**
+    - **`remove()`**
 - **list**
   - **`append()`**
   - **`extend()`**
