@@ -37,7 +37,7 @@
 - **Abstraction**
 - **Encapsulation**
 - **Polymorphism**
-- **Files**
+- **Files and Directories**
 
 # Reference
 
@@ -100,6 +100,9 @@
       - **`basename()`**
       - **`split()`**
     - **`remove()`**
+    - **`rmdir()`**
+  - **shutil**
+    - **`rmtree()`**
 - **list**
   - **`append()`**
   - **`extend()`**
